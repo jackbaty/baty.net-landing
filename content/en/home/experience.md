@@ -8,7 +8,7 @@ weight = 30  # Order that this section will appear.
 # Widget title
 title = "A bit of history"
 # Widget subtitle
-subtitle = "Where I've been and what I've done."
+subtitle = "Where I've been and what I've been doing."
 
 date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
 
