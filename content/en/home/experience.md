@@ -6,7 +6,7 @@ weight = 30  # Order that this section will appear.
 # hidden = true
 
 # Widget title
-title = "Experience"
+title = "A bit of history"
 # Widget subtitle
 subtitle = "Where I've been and what I've done."
 
@@ -26,7 +26,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   location = "Grand Rapids, MI"
   date_start = "2020-05-27"
   date_end = "2021-03-26"
-  description = "Helped transition and sustain Fusionary after the sale"
+  description = "Helped transition and sustain Fusionary after the sale."
 
 [[period]]
   title = "Partner/Developer/Manager"
@@ -34,7 +34,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   location = "Grand Rapids, MI"
   date_start = "1995-12-01"
   date_end = "2020-05-26"
-  description = "Web developer, project manager, partner"
+  description = "Web developer, project manager, and partner at a digital studio for 25 years"
   
   [[period]]
   title = "Owner"
@@ -42,7 +42,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   location = "Grand Rapids, MI"
   date_start = "1993-01-01"
   date_end = "1995-11-30"
-  description = "Programmer, Database developer"
+  description = "Freelance Programmer, Database developer, small business owner"
   
   [[period]]
   title = "Child"
