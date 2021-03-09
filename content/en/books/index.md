@@ -466,6 +466,7 @@ I also try to keep my [Goodreads Profile](https://www.goodreads.com/user/show/12
 - **Zoey Punches the Future in the Dick** by David Wong (2021-01-27) | ****
 - **Handmade: Creative Focus in the Age of Distraction** by Gary Rogowski (2021-02-19) | ****
 - **The Scar** by China Miéville (2021-02-26) | ****
+- **Lexicon** by Max Barry (2021-03-09) | ****
 
 
 
