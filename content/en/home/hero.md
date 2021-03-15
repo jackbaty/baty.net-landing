@@ -27,7 +27,7 @@ hero_media = "/img/portrait.jpg"
 
 # I'm Jack Baty. This is my website.
 
-It's just an obvious and boring "landing" page. For now.
+I'm about to be between careers, so all bets are off.
 
 In the meantime, you can find me...
 
