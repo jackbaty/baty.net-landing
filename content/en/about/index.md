@@ -3,7 +3,7 @@ title = "About"
 
 +++
 
-I was a partner at Fusionary Media from 1995 until we sold the company in May of 2020. I stayed on in a consulting role and helped transition things to the new ownership through March, 2021. I'm now spending time figuring out what I want to be when I grow up.
+I was a partner at Fusionary Media from 1995 until we sold the company in May of 2020. I stayed on in a consulting role and helped transition things to the new ownership until April, 2021. I'm now spending time figuring out what I want to be when I grow up.
 
 Baty.net is currently acting as a hub for the rest of the places I hang out online.
 
