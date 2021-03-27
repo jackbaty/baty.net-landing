@@ -27,7 +27,7 @@ hero_media = "/img/portrait.jpg"
 
 # I'm Jack Baty. This is my website.
 
-I'm about to be between careers, so all bets are off.
+I'm finally between careers. All bets are off!
 
 In the meantime, you can find me...
 
