@@ -31,11 +31,12 @@ I'm finally between careers. All bets are off!
 
 In the meantime, you can find me...
 
-...blogging at **[Copingmechanism.com](https://copingmechanism.com)** for photography
-
-...and at **[Baty.blog](https://baty.blog)** for everything else
+...blogging at **[Copingmechanism.com](https://copingmechanism.com)**
 
 ...taking public notes at **[Rudimentarylathe.wiki](https://rudimentarylathe.wiki)** 
 
-...posting photos **[on Flickr](https://flickr.com/photos/jbaty)**
+...posting photos on **[Flickr](https://flickr.com/photos/jbaty)** 
+and **[Instagram](https://instagram.com/mrjackbaty)**
+
+...and here's what I'm doing **[/now](https://copingmechanism.com/now)**
 

@@ -67,15 +67,13 @@ url = "https://twitter.com/jackbaty"
 identifier = "home" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/" 
-weight = 10 
+weight = 10
 
 [[menu.main]]
-identifier = "about" # identifier is use for translations
+identifier = "blog" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/about/" 
-weight = 20 
-
-
+url = "https://copingmechanism.com"
+weight = 20
 
 [[menu.main]]
 identifier = "contact" # identifier is use for translations
