@@ -29,3 +29,9 @@ HUGO_VERSION = "0.81.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+from = "/now"
+to = "https://copingmechanism.com/now"
+status = 301
+force = false
