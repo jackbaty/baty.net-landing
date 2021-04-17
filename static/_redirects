@@ -1,2 +1,4 @@
 /posts    https://archive.baty.net/posts
 /now      https://copingmechanism.com/now
+
+/:year/:slug  https://archive.baty.net/:year/:slug
