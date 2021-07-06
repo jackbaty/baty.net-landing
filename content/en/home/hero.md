@@ -31,9 +31,11 @@ I'm finally between careers. All bets are off!
 
 In the meantime, you can find me...
 
-...blogging at **[Copingmechanism.com](https://copingmechanism.com)**
+...blogging at **[Baty.blog](https://baty.blog)**
 
-...taking public notes at **[Rudimentarylathe.wiki](https://rudimentarylathe.wiki)** 
+...photo blogging at **[Copingmechanism.com](https://copingmechanism.com)**
+
+...taking public notes in a [public Roam database](https://roamresearch.com/#/app/jackbaty)  (formerly at [Rudimentarylathe.wiki](https://rudimentarylathe.wiki))
 
 ...posting photos on **[Flickr](https://flickr.com/photos/jbaty)** 
 and **[Instagram](https://instagram.com/mrjackbaty)**
