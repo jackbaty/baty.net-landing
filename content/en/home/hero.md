@@ -35,7 +35,7 @@ In the meantime, you can find me...
 
 ...photo blogging at **[Copingmechanism.com](https://copingmechanism.com)**
 
-...taking public notes in a [public Roam database](https://roamresearch.com/#/app/jackbaty)  (formerly at [Rudimentarylathe.wiki](https://rudimentarylathe.wiki))
+...taking public notes in TiddlyWiki at **[Rudimentarylathe.wiki](https://rudimentarylathe.wiki)**
 
 ...posting photos on **[Flickr](https://flickr.com/photos/jbaty)** 
 and **[Instagram](https://instagram.com/mrjackbaty)**
