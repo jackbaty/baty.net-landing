@@ -38,7 +38,7 @@ In the meantime, you can find me...
 ...taking public notes in TiddlyWiki at **[Rudimentarylathe.wiki](https://rudimentarylathe.wiki)**
 
 ...posting photos on **[Flickr](https://flickr.com/photos/jbaty)** 
-and **[Instagram](https://instagram.com/mrjackbaty)**
+and **[Instagram](https://instagram.com/jackbatyphoto)**
 
 ...and here's what I'm doing **[/now](https://copingmechanism.com/now)**
 
