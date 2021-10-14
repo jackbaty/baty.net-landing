@@ -29,7 +29,7 @@ hero_media = "/img/portrait.jpg"
 
 You can find me...
 
-...blogging at **[Baty.blog](https://baty.blog)**
+...blogging at **[Rudimentarylathe.org](http://rudimentarylathe.org/)**
 
 ...photo blogging at **[Copingmechanism.com](https://copingmechanism.com)**
 
