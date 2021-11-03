@@ -38,5 +38,5 @@ You can find me...
 ...posting photos on **[Flickr](https://flickr.com/photos/jbaty)** 
 and **[Instagram](https://instagram.com/jackbatyphoto)**
 
-...and here's what I'm doing **[/now](https://copingmechanism.com/now)**
+...and here's what I'm doing **[/now](https://rudimentarylathe.wiki/#Now)**
 
