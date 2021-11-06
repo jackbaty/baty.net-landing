@@ -1,4 +1,4 @@
 /posts    https://archive.baty.net/posts
 /now      https://rudimentarylathe.wiki/#Now
-
 /:year/:slug  https://archive.baty.net/:year/:slug
+/         https://baty.omg.lol
